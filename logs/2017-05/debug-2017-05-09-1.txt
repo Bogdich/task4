@@ -1,0 +1,595 @@
+13:28:45.965 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+13:41:01.410 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+14:21:29.674 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:08:12.733 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:08:12.764 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:08:12.764 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:11:48.061 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:11:48.076 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:11:48.092 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:12:51.570 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:12:51.591 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:12:51.602 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:20:36.498 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:20:36.513 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:20:36.513 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:32:58.097 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:32:58.118 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:32:58.129 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:33:09.887 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:33:09.903 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:33:09.918 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:35:48.819 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:35:48.835 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:35:48.851 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:36:05.991 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:36:06.006 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:36:06.022 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:39:38.486 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.ParagraphParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - It
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - has
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - survived
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - not
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - only
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - five
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - centuries,
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - but
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - also
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - the
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - leap
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - into
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 13+ i-- 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - electronic
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - typesetting,
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - remaining
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 3+5 
+15:39:38.502 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - essentially
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 6+9*(3-4) 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - unchanged.
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - It
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - was
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - popularised
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - in
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - the
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - with
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - the
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - release
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - of
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - Letraset
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - sheets
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - containing
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - Lorem
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - Ipsum
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - passages,
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - and
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - more
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - recently
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - with
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - desktop
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - publishing
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - software
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - like
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.518 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - Aldus
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - PageMaker
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - including
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - versions
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - of
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - Lorem
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - Ipsum.
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.ParagraphParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - It
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - is
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - a
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - long
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - established
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - fact
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - that
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - a
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - reader
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - will
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - be
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - distracted
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - by
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - the
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.533 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - readable
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - content
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - of
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - a
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - page
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - when
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - looking
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - at
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - its
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - layout.
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - The
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - point
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - of
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - using
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - Ipsum
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - is
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - that
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - it
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - has
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - a
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - more-or-less
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - normal
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - distribution
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - of
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - letters,
+15:39:38.549 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - as
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - opposed
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - to
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - using
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 'Content
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - here,
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - content
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - here',
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - making
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - it
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - look
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - like
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - readable
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - English.
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.ParagraphParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - It
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - is
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - a
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - (-5+1/2*(2+5*2- --j))*1200 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - established
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - fact
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - that
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - a
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - reader
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - will
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - be
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.565 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - of
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - a
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - page
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - when
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - looking
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - at
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - its
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - layout.
+15:39:38.580 [main] DEBUG com.bogdevich.task4.util.parser.Impl.SentenceParser - 
+15:40:04.670 [main] DEBUG TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:40:04.685 [main] DEBUG ParagraphParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:40:04.685 [main] DEBUG SentenceParser - It
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - has
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - survived
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - not
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - only
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - five
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - centuries,
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - but
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - also
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - the
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - leap
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - into
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - 13+ i-- 
+15:40:04.685 [main] DEBUG SentenceParser - electronic
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - typesetting,
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - remaining
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - 3+5 
+15:40:04.685 [main] DEBUG SentenceParser - essentially
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - 6+9*(3-4) 
+15:40:04.685 [main] DEBUG SentenceParser - unchanged.
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - It
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - was
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - popularised
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - in
+15:40:04.685 [main] DEBUG SentenceParser - 
+15:40:04.685 [main] DEBUG SentenceParser - the
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) 
+15:40:04.701 [main] DEBUG SentenceParser - with
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - the
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - release
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - of
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - Letraset
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - sheets
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - containing
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - Lorem
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - Ipsum
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - passages,
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - and
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - more
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - recently
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - with
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - desktop
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - publishing
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - software
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - like
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - Aldus
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - PageMaker
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - including
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - versions
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - of
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - Lorem
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG SentenceParser - Ipsum.
+15:40:04.701 [main] DEBUG SentenceParser - 
+15:40:04.701 [main] DEBUG TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:40:04.717 [main] DEBUG ParagraphParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+15:40:04.717 [main] DEBUG SentenceParser - It
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - is
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - a
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - long
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - established
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - fact
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - that
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - a
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - reader
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - will
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - be
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - distracted
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - by
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - the
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - readable
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - content
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - of
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - a
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - page
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - when
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - looking
+15:40:04.717 [main] DEBUG SentenceParser - 
+15:40:04.717 [main] DEBUG SentenceParser - at
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - its
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - layout.
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - The
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - point
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - of
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - using
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i 
+15:40:04.732 [main] DEBUG SentenceParser - Ipsum
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - is
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - that
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - it
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - has
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - a
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - more-or-less
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - normal
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - distribution
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - of
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - letters,
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - as
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - opposed
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - to
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - using
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - 'Content
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - here,
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - content
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - here',
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - making
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - it
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.732 [main] DEBUG SentenceParser - look
+15:40:04.732 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - like
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - readable
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - English.
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:40:04.748 [main] DEBUG ParagraphParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+15:40:04.748 [main] DEBUG SentenceParser - It
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - is
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - a
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - (-5+1/2*(2+5*2- --j))*1200 
+15:40:04.748 [main] DEBUG SentenceParser - established
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - fact
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - that
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - a
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - reader
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - will
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - be
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - of
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - a
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - page
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - when
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - looking
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - at
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - its
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:04.748 [main] DEBUG SentenceParser - layout.
+15:40:04.748 [main] DEBUG SentenceParser - 
+15:40:35.201 [main] DEBUG TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:40:35.216 [main] DEBUG ParagraphParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+15:40:35.216 [main] DEBUG SentenceParser - It
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - has
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - survived
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - not
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - only
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - five
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - centuries,
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - but
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - also
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - the
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - leap
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - into
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - 13+ i-- 
+15:40:35.216 [main] DEBUG SentenceParser - electronic
+15:40:35.216 [main] DEBUG SentenceParser - 
+15:40:35.216 [main] DEBUG SentenceParser - typesetting,
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - remaining
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - 3+5 
+15:40:35.232 [main] DEBUG SentenceParser - essentially
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - 6+9*(3-4) 
+15:40:35.232 [main] DEBUG SentenceParser - unchanged.
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - It
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - was
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - popularised
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - in
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - the
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) 
+15:40:35.232 [main] DEBUG SentenceParser - with
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - the
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - release
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - of
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - Letraset
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - sheets
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - containing
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - Lorem
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - Ipsum
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - passages,
+15:40:35.232 [main] DEBUG SentenceParser - 
+15:40:35.232 [main] DEBUG SentenceParser - and
+15:40:35.232 [main] DEBUG SentenceParser - 

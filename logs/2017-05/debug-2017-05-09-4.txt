@@ -1,0 +1,916 @@
+23:06:41.195 [main] DEBUG ParagraphParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged.
+23:06:41.206 [main] DEBUG SentenceParser - It
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - has
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - survived
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - not
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - only
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - five
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - centuries,
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - but
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - also
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - the
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - leap
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - into
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - 13+ i-- 
+23:06:41.206 [main] DEBUG SentenceParser - electronic
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - typesetting,
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - remaining
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - 3+5 
+23:06:41.206 [main] DEBUG SentenceParser - essentially
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - 6+9*(3-4) 
+23:06:41.206 [main] DEBUG SentenceParser - unchanged.
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG ParagraphParser -  It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+23:06:41.206 [main] DEBUG SentenceParser - 
+23:06:41.206 [main] DEBUG SentenceParser - It
+23:06:41.222 [main] DEBUG SentenceParser - 
+23:06:41.222 [main] DEBUG SentenceParser - was
+23:06:41.222 [main] DEBUG SentenceParser - 
+23:06:41.222 [main] DEBUG SentenceParser - popularised
+23:06:41.222 [main] DEBUG SentenceParser - 
+23:06:41.222 [main] DEBUG SentenceParser - in
+23:06:41.222 [main] DEBUG SentenceParser - 
+23:06:41.222 [main] DEBUG SentenceParser - the
+23:06:41.222 [main] DEBUG SentenceParser - 
+23:06:41.222 [main] DEBUG SentenceParser - 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) 
+23:06:41.222 [main] DEBUG SentenceParser - with
+23:06:41.222 [main] DEBUG SentenceParser - 
+23:06:41.222 [main] DEBUG SentenceParser - the
+23:06:41.222 [main] DEBUG SentenceParser - 
+23:06:41.222 [main] DEBUG SentenceParser - release
+23:06:41.222 [main] DEBUG SentenceParser - 
+23:06:41.222 [main] DEBUG SentenceParser - of
+23:06:41.222 [main] DEBUG SentenceParser - 
+23:06:41.226 [main] DEBUG SentenceParser - Letraset
+23:06:41.227 [main] DEBUG SentenceParser - 
+23:06:41.227 [main] DEBUG SentenceParser - sheets
+23:06:41.227 [main] DEBUG SentenceParser - 
+23:06:41.227 [main] DEBUG SentenceParser - containing
+23:06:41.227 [main] DEBUG SentenceParser - 
+23:06:41.228 [main] DEBUG SentenceParser - Lorem
+23:06:41.228 [main] DEBUG SentenceParser - 
+23:06:41.228 [main] DEBUG SentenceParser - Ipsum
+23:06:41.228 [main] DEBUG SentenceParser - 
+23:06:41.228 [main] DEBUG SentenceParser - passages,
+23:06:41.228 [main] DEBUG SentenceParser - 
+23:06:41.229 [main] DEBUG SentenceParser - and
+23:06:41.229 [main] DEBUG SentenceParser - 
+23:06:41.229 [main] DEBUG SentenceParser - more
+23:06:41.229 [main] DEBUG SentenceParser - 
+23:06:41.229 [main] DEBUG SentenceParser - recently
+23:06:41.229 [main] DEBUG SentenceParser - 
+23:06:41.230 [main] DEBUG SentenceParser - with
+23:06:41.230 [main] DEBUG SentenceParser - 
+23:06:41.230 [main] DEBUG SentenceParser - desktop
+23:06:41.231 [main] DEBUG SentenceParser - 
+23:06:41.231 [main] DEBUG SentenceParser - publishing
+23:06:41.231 [main] DEBUG SentenceParser - 
+23:06:41.231 [main] DEBUG SentenceParser - software
+23:06:41.232 [main] DEBUG SentenceParser - 
+23:06:41.232 [main] DEBUG SentenceParser - like
+23:06:41.232 [main] DEBUG SentenceParser - 
+23:06:41.233 [main] DEBUG SentenceParser - Aldus
+23:06:41.233 [main] DEBUG SentenceParser - 
+23:06:41.233 [main] DEBUG SentenceParser - PageMaker
+23:06:41.234 [main] DEBUG SentenceParser - 
+23:06:41.234 [main] DEBUG SentenceParser - including
+23:06:41.234 [main] DEBUG SentenceParser - 
+23:06:41.235 [main] DEBUG SentenceParser - versions
+23:06:41.235 [main] DEBUG SentenceParser - 
+23:06:41.235 [main] DEBUG SentenceParser - of
+23:06:41.235 [main] DEBUG SentenceParser - 
+23:06:41.235 [main] DEBUG SentenceParser - Lorem
+23:06:41.236 [main] DEBUG SentenceParser - 
+23:06:41.236 [main] DEBUG SentenceParser - Ipsum.
+23:06:41.236 [main] DEBUG SentenceParser - 
+23:06:41.237 [main] DEBUG TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+23:06:41.237 [main] DEBUG ParagraphParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+23:06:41.237 [main] DEBUG SentenceParser - It
+23:06:41.237 [main] DEBUG SentenceParser - 
+23:06:41.238 [main] DEBUG SentenceParser - is
+23:06:41.238 [main] DEBUG SentenceParser - 
+23:06:41.238 [main] DEBUG SentenceParser - a
+23:06:41.238 [main] DEBUG SentenceParser - 
+23:06:41.239 [main] DEBUG SentenceParser - long
+23:06:41.240 [main] DEBUG SentenceParser - 
+23:06:41.240 [main] DEBUG SentenceParser - established
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - fact
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - that
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - a
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - reader
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - will
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - be
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - distracted
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - by
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - the
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - readable
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - content
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - of
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - a
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - page
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - when
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - looking
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - at
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - its
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - layout.
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG ParagraphParser -  The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - The
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - point
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - of
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - using
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i 
+23:06:41.241 [main] DEBUG SentenceParser - Ipsum
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - is
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - that
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - it
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - has
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - a
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - more-or-less
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - normal
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - distribution
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - of
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - letters,
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - as
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - opposed
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - to
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.241 [main] DEBUG SentenceParser - using
+23:06:41.241 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - 'Content
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - here,
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - content
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - here',
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - making
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - it
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - look
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - like
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - readable
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - English.
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+23:06:41.256 [main] DEBUG ParagraphParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+23:06:41.256 [main] DEBUG SentenceParser - It
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - is
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - a
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - (-5+1/2*(2+5*2- --j))*1200 
+23:06:41.256 [main] DEBUG SentenceParser - established
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - fact
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - that
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - a
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - reader
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - will
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - be
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - of
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - a
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - page
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - when
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - looking
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - at
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - its
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:06:41.256 [main] DEBUG SentenceParser - layout.
+23:06:41.256 [main] DEBUG SentenceParser - 
+23:20:15.791 [main] DEBUG TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+23:20:15.807 [main] DEBUG ParagraphParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged.
+23:20:15.807 [main] DEBUG SentenceParser - It
+23:20:15.807 [main] DEBUG SentenceParser - 
+23:20:15.807 [main] DEBUG SentenceParser - has
+23:20:15.807 [main] DEBUG SentenceParser - 
+23:20:15.807 [main] DEBUG SentenceParser - survived
+23:20:15.807 [main] DEBUG SentenceParser - 
+23:20:15.807 [main] DEBUG SentenceParser - not
+23:20:15.807 [main] DEBUG SentenceParser - 
+23:20:15.807 [main] DEBUG SentenceParser - only
+23:20:15.807 [main] DEBUG SentenceParser - 
+23:20:15.807 [main] DEBUG SentenceParser - five
+23:20:15.807 [main] DEBUG SentenceParser - 
+23:20:15.807 [main] DEBUG SentenceParser - centuries,
+23:20:15.807 [main] DEBUG SentenceParser - 
+23:20:15.807 [main] DEBUG SentenceParser - but
+23:20:15.807 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - also
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - the
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - leap
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - into
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - 13+ i-- 
+23:20:15.822 [main] DEBUG SentenceParser - electronic
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - typesetting,
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - remaining
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - 3+5 
+23:20:15.822 [main] DEBUG SentenceParser - essentially
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - 6+9*(3-4) 
+23:20:15.822 [main] DEBUG SentenceParser - unchanged.
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG ParagraphParser -  It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - It
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - was
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - popularised
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - in
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - the
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) 
+23:20:15.822 [main] DEBUG SentenceParser - with
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - the
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - release
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - of
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - Letraset
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - sheets
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - containing
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - Lorem
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.822 [main] DEBUG SentenceParser - Ipsum
+23:20:15.822 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - passages,
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - and
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - more
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - recently
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - with
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - desktop
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - publishing
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - software
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - like
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - Aldus
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - PageMaker
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - including
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - versions
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - of
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - Lorem
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - Ipsum.
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+23:20:15.838 [main] DEBUG ParagraphParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+23:20:15.838 [main] DEBUG SentenceParser - It
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - is
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - a
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - long
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - established
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - fact
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.838 [main] DEBUG SentenceParser - that
+23:20:15.838 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - a
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - reader
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - will
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - be
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - distracted
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - by
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - the
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - readable
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - content
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - of
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - a
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - page
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - when
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - looking
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - at
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - its
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.854 [main] DEBUG SentenceParser - layout.
+23:20:15.854 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG ParagraphParser -  The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - The
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - point
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - of
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - using
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i 
+23:20:15.869 [main] DEBUG SentenceParser - Ipsum
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - is
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - that
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - it
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - has
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - a
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - more-or-less
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - normal
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - distribution
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - of
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - letters,
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - as
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - opposed
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - to
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - using
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - 'Content
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - here,
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - content
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - here',
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - making
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - it
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - look
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - like
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - readable
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - English.
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+23:20:15.869 [main] DEBUG ParagraphParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+23:20:15.869 [main] DEBUG SentenceParser - It
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - is
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - a
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - (-5+1/2*(2+5*2- --j))*1200 
+23:20:15.869 [main] DEBUG SentenceParser - established
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - fact
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - that
+23:20:15.869 [main] DEBUG SentenceParser - 
+23:20:15.869 [main] DEBUG SentenceParser - a
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:20:15.885 [main] DEBUG SentenceParser - reader
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:20:15.885 [main] DEBUG SentenceParser - will
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:20:15.885 [main] DEBUG SentenceParser - be
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:20:15.885 [main] DEBUG SentenceParser - of
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:20:15.885 [main] DEBUG SentenceParser - a
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:20:15.885 [main] DEBUG SentenceParser - page
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:20:15.885 [main] DEBUG SentenceParser - when
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:20:15.885 [main] DEBUG SentenceParser - looking
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:20:15.885 [main] DEBUG SentenceParser - at
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:20:15.885 [main] DEBUG SentenceParser - its
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:20:15.885 [main] DEBUG SentenceParser - layout.
+23:20:15.885 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+23:21:56.596 [main] DEBUG ParagraphParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged.
+23:21:56.596 [main] DEBUG SentenceParser - It
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - has
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - survived
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - not
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - only
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - five
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - centuries,
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - but
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - also
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - the
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - leap
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - into
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - 13+ i-- 
+23:21:56.596 [main] DEBUG SentenceParser - electronic
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - typesetting,
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - remaining
+23:21:56.596 [main] DEBUG SentenceParser - 
+23:21:56.596 [main] DEBUG SentenceParser - 3+5 
+23:21:56.596 [main] DEBUG SentenceParser - essentially
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - 6+9*(3-4) 
+23:21:56.612 [main] DEBUG SentenceParser - unchanged.
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG ParagraphParser -  It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - It
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - was
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - popularised
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - in
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - the
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) 
+23:21:56.612 [main] DEBUG SentenceParser - with
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - the
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - release
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - of
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - Letraset
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - sheets
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - containing
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - Lorem
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - Ipsum
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - passages,
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - and
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - more
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - recently
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - with
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - desktop
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - publishing
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - software
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - like
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - Aldus
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - PageMaker
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - including
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.612 [main] DEBUG SentenceParser - versions
+23:21:56.612 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - of
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - Lorem
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - Ipsum.
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+23:21:56.627 [main] DEBUG ParagraphParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+23:21:56.627 [main] DEBUG SentenceParser - It
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - is
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - a
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - long
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - established
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - fact
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - that
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - a
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - reader
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - will
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - be
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - distracted
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - by
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - the
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - readable
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - content
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - of
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - a
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - page
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - when
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - looking
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - at
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - its
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - layout.
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG ParagraphParser -  The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - The
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - point
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - of
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - using
+23:21:56.627 [main] DEBUG SentenceParser - 
+23:21:56.627 [main] DEBUG SentenceParser - (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i 
+23:21:56.643 [main] DEBUG SentenceParser - Ipsum
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - is
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - that
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - it
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - has
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - a
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - more-or-less
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - normal
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - distribution
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - of
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - letters,
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - as
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - opposed
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - to
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - using
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - 'Content
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - here,
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - content
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - here',
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - making
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - it
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - look
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - like
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - readable
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - English.
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+23:21:56.643 [main] DEBUG ParagraphParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+23:21:56.643 [main] DEBUG SentenceParser - It
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - is
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - a
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - (-5+1/2*(2+5*2- --j))*1200 
+23:21:56.643 [main] DEBUG SentenceParser - established
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - fact
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - that
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - a
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - reader
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - will
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - be
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - of
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - a
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - page
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - when
+23:21:56.643 [main] DEBUG SentenceParser - 
+23:21:56.643 [main] DEBUG SentenceParser - looking
+23:21:56.658 [main] DEBUG SentenceParser - 
+23:21:56.658 [main] DEBUG SentenceParser - at
+23:21:56.658 [main] DEBUG SentenceParser - 
+23:21:56.658 [main] DEBUG SentenceParser - its
+23:21:56.658 [main] DEBUG SentenceParser - 
+23:21:56.658 [main] DEBUG SentenceParser - layout.
+23:21:56.658 [main] DEBUG SentenceParser - 
+23:25:07.977 [main] DEBUG TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+23:25:07.993 [main] DEBUG ParagraphParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged.
+23:25:07.993 [main] DEBUG SentenceParser - It
+23:25:07.993 [main] DEBUG SentenceParser - has
+23:25:07.993 [main] DEBUG SentenceParser - survived
+23:25:07.993 [main] DEBUG SentenceParser - not
+23:25:07.993 [main] DEBUG SentenceParser - only
+23:25:07.993 [main] DEBUG SentenceParser - five
+23:25:07.993 [main] DEBUG SentenceParser - centuries,
+23:25:07.993 [main] DEBUG SentenceParser - but
+23:25:07.993 [main] DEBUG SentenceParser - also
+23:25:07.993 [main] DEBUG SentenceParser - the
+23:25:07.993 [main] DEBUG SentenceParser - leap
+23:25:07.993 [main] DEBUG SentenceParser - into
+23:25:07.993 [main] DEBUG SentenceParser - 13+ i-- 
+23:25:07.993 [main] DEBUG SentenceParser - electronic
+23:25:07.993 [main] DEBUG SentenceParser - typesetting,
+23:25:07.993 [main] DEBUG SentenceParser - remaining
+23:25:07.993 [main] DEBUG SentenceParser - 3+5 
+23:25:08.009 [main] DEBUG SentenceParser - essentially
+23:25:08.009 [main] DEBUG SentenceParser - 6+9*(3-4) 
+23:25:08.009 [main] DEBUG SentenceParser - unchanged.
+23:25:08.009 [main] DEBUG ParagraphParser -  It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+23:25:08.009 [main] DEBUG SentenceParser - It
+23:25:08.009 [main] DEBUG SentenceParser - was
+23:25:08.009 [main] DEBUG SentenceParser - popularised
+23:25:08.009 [main] DEBUG SentenceParser - in
+23:25:08.009 [main] DEBUG SentenceParser - the
+23:25:08.009 [main] DEBUG SentenceParser - 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) 
+23:25:08.009 [main] DEBUG SentenceParser - with
+23:25:08.009 [main] DEBUG SentenceParser - the
+23:25:08.009 [main] DEBUG SentenceParser - release
+23:25:08.009 [main] DEBUG SentenceParser - of
+23:25:08.009 [main] DEBUG SentenceParser - Letraset
+23:25:08.009 [main] DEBUG SentenceParser - sheets
+23:25:08.009 [main] DEBUG SentenceParser - containing
+23:25:08.009 [main] DEBUG SentenceParser - Lorem
+23:25:08.009 [main] DEBUG SentenceParser - Ipsum
+23:25:08.009 [main] DEBUG SentenceParser - passages,
+23:25:08.009 [main] DEBUG SentenceParser - and
+23:25:08.009 [main] DEBUG SentenceParser - more
+23:25:08.009 [main] DEBUG SentenceParser - recently
+23:25:08.009 [main] DEBUG SentenceParser - with
+23:25:08.009 [main] DEBUG SentenceParser - desktop
+23:25:08.009 [main] DEBUG SentenceParser - publishing
+23:25:08.009 [main] DEBUG SentenceParser - software
+23:25:08.009 [main] DEBUG SentenceParser - like
+23:25:08.009 [main] DEBUG SentenceParser - Aldus
+23:25:08.009 [main] DEBUG SentenceParser - PageMaker
+23:25:08.009 [main] DEBUG SentenceParser - including
+23:25:08.009 [main] DEBUG SentenceParser - versions
+23:25:08.009 [main] DEBUG SentenceParser - of
+23:25:08.009 [main] DEBUG SentenceParser - Lorem
+23:25:08.009 [main] DEBUG SentenceParser - Ipsum.
+23:25:08.009 [main] DEBUG TextParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+23:25:08.009 [main] DEBUG ParagraphParser - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+23:25:08.009 [main] DEBUG SentenceParser - It
+23:25:08.009 [main] DEBUG SentenceParser - is
+23:25:08.009 [main] DEBUG SentenceParser - a
+23:25:08.009 [main] DEBUG SentenceParser - long
+23:25:08.009 [main] DEBUG SentenceParser - established
+23:25:08.009 [main] DEBUG SentenceParser - fact
+23:25:08.009 [main] DEBUG SentenceParser - that
+23:25:08.009 [main] DEBUG SentenceParser - a
+23:25:08.009 [main] DEBUG SentenceParser - reader
+23:25:08.009 [main] DEBUG SentenceParser - will
+23:25:08.009 [main] DEBUG SentenceParser - be
+23:25:08.009 [main] DEBUG SentenceParser - distracted
+23:25:08.009 [main] DEBUG SentenceParser - by
+23:25:08.009 [main] DEBUG SentenceParser - the
+23:25:08.009 [main] DEBUG SentenceParser - readable
+23:25:08.009 [main] DEBUG SentenceParser - content
+23:25:08.009 [main] DEBUG SentenceParser - of
+23:25:08.009 [main] DEBUG SentenceParser - a
+23:25:08.009 [main] DEBUG SentenceParser - page
+23:25:08.009 [main] DEBUG SentenceParser - when
+23:25:08.009 [main] DEBUG SentenceParser - looking
+23:25:08.009 [main] DEBUG SentenceParser - at
+23:25:08.009 [main] DEBUG SentenceParser - its
+23:25:08.009 [main] DEBUG SentenceParser - layout.
+23:25:08.009 [main] DEBUG ParagraphParser -  The point of using (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+23:25:08.009 [main] DEBUG SentenceParser - The
+23:25:08.009 [main] DEBUG SentenceParser - point
+23:25:08.024 [main] DEBUG SentenceParser - of
+23:25:08.024 [main] DEBUG SentenceParser - using
+23:25:08.024 [main] DEBUG SentenceParser - (71-(2*i--*(3*(2-1/2*2)-2)-10/2))*++i 
+23:25:08.024 [main] DEBUG SentenceParser - Ipsum
+23:25:08.024 [main] DEBUG SentenceParser - is
+23:25:08.024 [main] DEBUG SentenceParser - that
+23:25:08.024 [main] DEBUG SentenceParser - it
+23:25:08.024 [main] DEBUG SentenceParser - has
+23:25:08.024 [main] DEBUG SentenceParser - a
+23:25:08.024 [main] DEBUG SentenceParser - more-or-less
+23:25:08.024 [main] DEBUG SentenceParser - normal
+23:25:08.024 [main] DEBUG SentenceParser - distribution
+23:25:08.024 [main] DEBUG SentenceParser - of
+23:25:08.024 [main] DEBUG SentenceParser - letters,
+23:25:08.024 [main] DEBUG SentenceParser - as
+23:25:08.024 [main] DEBUG SentenceParser - opposed
+23:25:08.024 [main] DEBUG SentenceParser - to
+23:25:08.024 [main] DEBUG SentenceParser - using
+23:25:08.024 [main] DEBUG SentenceParser - 'Content
+23:25:08.024 [main] DEBUG SentenceParser - here,
+23:25:08.024 [main] DEBUG SentenceParser - content
+23:25:08.024 [main] DEBUG SentenceParser - here',
+23:25:08.024 [main] DEBUG SentenceParser - making
+23:25:08.024 [main] DEBUG SentenceParser - it
+23:25:08.024 [main] DEBUG SentenceParser - look
+23:25:08.024 [main] DEBUG SentenceParser - like
+23:25:08.024 [main] DEBUG SentenceParser - readable
+23:25:08.024 [main] DEBUG SentenceParser - English.
+23:25:08.024 [main] DEBUG TextParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+23:25:08.024 [main] DEBUG ParagraphParser - It is a (-5+1/2*(2+5*2- --j))*1200 established fact that a reader will be of a page when looking at its layout.
+23:25:08.024 [main] DEBUG SentenceParser - It
+23:25:08.024 [main] DEBUG SentenceParser - is
+23:25:08.024 [main] DEBUG SentenceParser - a
+23:25:08.024 [main] DEBUG SentenceParser - (-5+1/2*(2+5*2- --j))*1200 
+23:25:08.024 [main] DEBUG SentenceParser - established
+23:25:08.024 [main] DEBUG SentenceParser - fact
+23:25:08.024 [main] DEBUG SentenceParser - that
+23:25:08.024 [main] DEBUG SentenceParser - a
+23:25:08.024 [main] DEBUG SentenceParser - reader
+23:25:08.024 [main] DEBUG SentenceParser - will
+23:25:08.024 [main] DEBUG SentenceParser - be
+23:25:08.024 [main] DEBUG SentenceParser - of
+23:25:08.024 [main] DEBUG SentenceParser - a
+23:25:08.024 [main] DEBUG SentenceParser - page
+23:25:08.024 [main] DEBUG SentenceParser - when
+23:25:08.024 [main] DEBUG SentenceParser - looking
+23:25:08.024 [main] DEBUG SentenceParser - at
+23:25:08.024 [main] DEBUG SentenceParser - its
+23:25:08.024 [main] DEBUG SentenceParser - layout.
+23:33:42.262 [main] DEBUG TextParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged. It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+23:33:42.262 [main] DEBUG ParagraphParser - It has survived not only five centuries, but also the leap into 13+ i-- electronic typesetting, remaining 3+5 essentially 6+9*(3-4) unchanged.
+23:33:42.262 [main] DEBUG SentenceParser - It
+23:33:42.262 [main] DEBUG SentenceParser - has
+23:33:42.262 [main] DEBUG SentenceParser - survived
+23:33:42.262 [main] DEBUG SentenceParser - not
+23:33:42.262 [main] DEBUG SentenceParser - only
+23:33:42.262 [main] DEBUG SentenceParser - five
+23:33:42.262 [main] DEBUG SentenceParser - centuries,
+23:33:42.262 [main] DEBUG SentenceParser - but
+23:33:42.262 [main] DEBUG SentenceParser - also
+23:33:42.262 [main] DEBUG SentenceParser - the
+23:33:42.262 [main] DEBUG SentenceParser - leap
+23:33:42.262 [main] DEBUG SentenceParser - into
+23:33:42.262 [main] DEBUG SentenceParser - 13+ i-- 
+23:33:42.262 [main] DEBUG SentenceParser - electronic
+23:33:42.262 [main] DEBUG SentenceParser - typesetting,
+23:33:42.262 [main] DEBUG SentenceParser - remaining
+23:33:42.262 [main] DEBUG SentenceParser - 3+5 
+23:33:42.262 [main] DEBUG SentenceParser - essentially
+23:33:42.262 [main] DEBUG SentenceParser - 6+9*(3-4) 
+23:33:42.262 [main] DEBUG SentenceParser - unchanged.
+23:33:42.262 [main] DEBUG ParagraphParser -  It was popularised in the 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+23:33:42.262 [main] DEBUG SentenceParser - It
+23:33:42.262 [main] DEBUG SentenceParser - was
+23:33:42.262 [main] DEBUG SentenceParser - popularised
+23:33:42.262 [main] DEBUG SentenceParser - in
+23:33:42.262 [main] DEBUG SentenceParser - the
+23:33:42.262 [main] DEBUG SentenceParser - 5*(1*2*(3*(4*(5- --j + 4)-3)-2)-1) 

@@ -22,4 +22,7 @@ public abstract class AbstractComponent {
 
     public abstract void add(AbstractComponent component);
     public abstract void remove(AbstractComponent component);
+
+    @Override
+    public abstract String toString();
 }
