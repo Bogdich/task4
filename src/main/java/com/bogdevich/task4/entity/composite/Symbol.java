@@ -8,7 +8,12 @@ import com.bogdevich.task4.entity.type.ComponentType;
 public class Symbol extends AbstractComponent{
     private char symbol;
 
+    public Symbol() {
+        super(ComponentType.SYMBOL);
+    }
+
     public Symbol(char symbol) {
+        super(ComponentType.SYMBOL);
         this.symbol = symbol;
     }
 
@@ -22,12 +27,17 @@ public class Symbol extends AbstractComponent{
     }
 
     @Override
-    void add(AbstractComponent component) {
+    public void add(AbstractComponent component) {
         throw new UnsupportedOperationException("Class symbol doesn't support method \"add()\"");
     }
 
     @Override
-    void remove(AbstractComponent component) {
+    public void remove(AbstractComponent component) {
         throw new UnsupportedOperationException("Class symbol doesn't support method \"remove()\"");
+    }
+
+    @Override
+    public String toString() {
+        return String.valueOf(symbol);
     }
 }
